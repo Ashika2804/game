@@ -1,12 +1,14 @@
 # Snake game using Reactjs.
 
+
+
+- Developed a Live Snake game using React JS.
+- Implemented a Responsive Design that allows the game to be played on desktop and mobile devices.
+- In this classic Snake game, players control a snake to eat food, growing longer with each meal.
+- The game ends if the snake collides with itself or the walls.
 - Use the (keys/Buttons) UP, DOWN, RIGHT, and LEFT to make the snake grow longer.
 - You can't stop the snake or make it go backwards.
-- The game ends when the snake into itself.
-- The goal is to make the snake as large as possible before that happens.
-- The score is determined by the number of segments your final snake is.
-- The line acts as a blockade and the player who lasted longer was the winner.
-
+- The goal is to make the snake as large as possible.
 
 Play Game Snake Game : [Click TO Play](https://rdinesh1667.github.io/snake-game-using-react) <br>
 
